@@ -14,3 +14,4 @@ El archivo `carta.xml` contiene la información sobre los platos del restaurante
 
 Para utilizar este archivo, puedes abrirlo con un editor XML como XML Copy Editor. Asegúrate de que el documento esté bien formado.
 
+restaurante: [carta restaurante](/restaurante.xml)
