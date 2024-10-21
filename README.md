@@ -1,2 +1,16 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/2wU6us-7)
-TIPO examen 
+# Carta del Restaurante "Grande es el Capitán"
+
+Este repositorio contiene un archivo XML que estructura la carta del restaurante "Grande es el Capitán".
+
+## Archivo XML
+
+El archivo `carta.xml` contiene la información sobre los platos del restaurante, incluyendo:
+
+- Nombre del restaurante
+- Números de contacto
+- Platos con precios, valores energéticos y alérgenos
+
+## Cómo usar
+
+Para utilizar este archivo, puedes abrirlo con un editor XML como XML Copy Editor. Asegúrate de que el documento esté bien formado.
+
